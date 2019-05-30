@@ -3,7 +3,7 @@
 This project is our submission for the Rajasthan Hackathon 5.0. This is site which promotes E-Governance and facilitates communication between the government and the citizens to great extent.
 
 ### Features: 
-* A dashboard showing user details as well as Notices and Circulars.
+* A dashboard showing user details as well as Notices and Circulars. This is a dynamic dashboard.
 * A Forum for discussion on issues.
 * A Job Portal where the user can upload their resumes(as pdf or images) and the he/she is provided with the specific keywords to related to his professional expertise (to be used in job search).
 * A Feedback Form which automatically analyses the sentiment of the feedback/complaint and places tags for urgent attention by the government. The feedback/complaint is sent as an email to the respective authority.
